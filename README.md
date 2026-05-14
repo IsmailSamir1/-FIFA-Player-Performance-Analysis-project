@@ -94,15 +94,6 @@ jupyter notebook
 - Statistical testing (Chi-square) for feature significance
 - Creating clear, interpretable visualizations with matplotlib and seaborn
 
-## Team
-
-| Member | Role |
-|--------|------|
-| Ismail Ahmed | Lead — EDA, preprocessing, modeling, feature engineering |
-| Maleeka Sabek | Team member |
-| Ritag Mohamed Hussein | Team member |
-| Nour Eldin Ashraf | Team member |
-
 ## Context
 
 Built during **Semester 4** (Spring 2026) at the **German International University**, Cairo — as part of the Data Science course (Dr. Caroline Sabty).
